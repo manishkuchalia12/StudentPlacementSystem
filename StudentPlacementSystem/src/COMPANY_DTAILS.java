@@ -54,8 +54,8 @@ public class Admin4 extends javax.swing.JFrame {
     private javax.swing.JComboBox t1; 
     private javax.swing.JComboBox t2; 
     private javax.swing.JComboBox t3; 
-                                                                               
-39 
+
+    
  
     private javax.swing.JComboBox t4; 
     private javax.swing.JComboBox t5; 
