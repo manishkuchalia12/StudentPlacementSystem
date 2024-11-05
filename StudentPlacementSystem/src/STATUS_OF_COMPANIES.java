@@ -8,7 +8,7 @@
 
 /**
  *
- * @author Manisha
+ * @author Manish
  */
 public class Exmt11 extends javax.swing.JFrame {
 
@@ -59,7 +59,7 @@ public class Exmt11 extends javax.swing.JFrame {
         private javax.swing.JLabel jLabel4;
         private javax.swing.JLabel jLabel5;
 
-        55
+        
 
         private javax.swing.JLabel jLabel6;
         private javax.swing.JLabel jLabel7;
