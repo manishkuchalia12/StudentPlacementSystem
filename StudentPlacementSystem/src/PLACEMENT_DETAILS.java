@@ -29,7 +29,7 @@ REGISTERATION
  
  
                                                                                
-43
+
 
 
         import java.sql.Connection;
@@ -39,7 +39,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author manisha
+ * @author manish
  */
 public class Delid extends javax.swing.JFrame {
 
