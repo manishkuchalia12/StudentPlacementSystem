@@ -8,7 +8,7 @@ package campus;
 
 /**
  *
- * @author manisha
+ * @author manish
  */
 public class Campus {
 
