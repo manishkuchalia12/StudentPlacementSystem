@@ -5,7 +5,7 @@ import java.sql.Statement;
 //import static javaapplication2.Mycv.sd2;
 /**
  *
- * @author manisha
+ * @author manish
  */
 public class Admin2 extends javax.swing.JFrame {
 
