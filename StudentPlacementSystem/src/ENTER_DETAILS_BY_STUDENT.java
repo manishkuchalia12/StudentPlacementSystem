@@ -4,7 +4,7 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Manisha
+ * @author Manish
  */
 public class Idadd extends javax.swing.JFrame {
 
@@ -57,7 +57,7 @@ public class Idadd extends javax.swing.JFrame {
         });
 
 
-        58
+    
 
         jButton2.setText("BACK");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
